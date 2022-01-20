@@ -60,7 +60,7 @@ var l_musicDisplay = false;
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
-	{ogg: "songs/hallowedground.ogg", name: "Hallowed Ground"},
+	{youtube: "Rn-NBqemx-M", name: "Hallowed Ground"}
 ];
 
 /*Random music order?*/
